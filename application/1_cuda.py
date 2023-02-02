@@ -1,7 +1,7 @@
 import os
 
 
-gpu_id = 1
+gpu_id = 0
 os.environ['CUDA_VISIBLE_DEVICES'] = str(gpu_id)
 
 file = '1_main.py'

@@ -4,6 +4,8 @@ if os.path.exists(r'D:\Yuanbo\Code\UCL\meta_data'):
     root = r'D:\Yuanbo\Code\UCL\meta_data'
 elif os.path.exists(r'E:\Yuanbo\UCL\DeLTA\meta_data'):
     root = r'E:\Yuanbo\UCL\DeLTA\meta_data'
+elif os.path.exists(r'C:\Users\mitch\Documents\Github\DSG_DeLTA\meta_data_v2'):
+    root = r'C:\Users\mitch\Documents\Github\DSG_DeLTA\meta_data_v2'
 
 ####################################################################################################
 

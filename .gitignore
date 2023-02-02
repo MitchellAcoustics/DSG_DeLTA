@@ -1,0 +1,5 @@
+__pycache__/
+
+# pre-trained models
+*/sys_*/
+*.pickle
